@@ -22,6 +22,14 @@ Welcome to my QGIS portfolio showcasing geospatial analysis and mapping work.
 - Extracted and refined geographic features
 - Produced clean, readable maps
 
+### CAD Concept Design
+- Demonstrates structured design and layout principles
+- Simulates CAD workflows like layering and alignment
+- Focus on geometry, positioning, and technical structure
+
+📷 Preview:
+projects/cad_modeling/design.png
+
 ---
 
 ## Sample Work
