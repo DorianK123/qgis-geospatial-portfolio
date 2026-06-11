@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Atlanta"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3880, 33.7490]
+      }
+    }
+  ]
+}
